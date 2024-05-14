@@ -1,0 +1,45 @@
+
+header{
+    background-color: rgb(252, 163, 17);
+    
+}
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    color: rgb(20, 33, 61);
+    border: 2px solid blue;
+}
+body{
+    font-family: "Libre Baskerville", serif;
+    background-color: rgb(229, 229, 229);
+}
+h1 {
+    color: rgb(20, 33, 61);
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    background-color: rgb(20, 33, 61);
+    color: rgb(255, 255, 255);
+    text-indent: 15px;
+    
+}
+h4{
+    font-size: 22px;
+    background-color: rgb(252, 163, 17);
+    text-indent: 25px;
+}
+h5{
+    font-size: 18px;
+    text-indent: 35px;
+}
+p{
+    font-size: 16px;
+    text-indent: 40px;
+}
+.encabezado {
+    border-radius: 50%;
+    text-align: center;
+}
